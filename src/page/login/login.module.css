@@ -1,0 +1,32 @@
+.loginContainer{
+    /* border:1px solid red; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 8rem;
+    text-align: center;
+    flex-direction: row;
+}
+
+.loginCard {
+    display: flex;
+    flex-direction: column;
+    width:25rem;
+    height:22rem;
+    border: 1px solid #ccc;
+    padding: 1rem;
+}
+
+.bottomCard{
+    width:25rem;
+    border: 1px solid #ccc;
+ padding: 1.5rem;
+ margin-top: 2rem;
+}
+
+.jobbg{
+    /* background-image: url("../../assets/insta-mob-bg.png"); */
+    /* width:454px;
+    height:618px; */
+    /* position: relative; */
+}

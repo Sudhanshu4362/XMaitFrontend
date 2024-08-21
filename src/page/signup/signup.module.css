@@ -1,0 +1,30 @@
+.signupContainer{
+    /* border:1px solid red; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 8rem;
+    text-align: center;
+    flex-direction: column;
+}
+
+.signupCard{
+    width:25rem;
+    height:32rem;
+    border: 1px solid #ccc;
+    padding: 1rem;
+}
+
+.bottomCard{
+    width:25rem;
+    border: 1px solid #ccc;
+ padding: 1rem;
+ margin-top: 1rem;
+}
+
+.tnc{
+    width:25rem;
+    padding: 1rem;
+    margin-top: 1rem;
+    color:gray;
+}
